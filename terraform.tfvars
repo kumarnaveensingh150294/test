@@ -1,0 +1,10 @@
+# Application Definition 
+app_name        = "naveen"
+app_environment = "test" 
+app_domain      = "####.com"
+app_project     = "############"
+app_node_count  = 2
+gcp_region_1  = "us-east4"
+gcp_zone_1    = "us-east4-c"
+gcp_auth_file = "##############"
+private_subnet_cidr_1  = "172.19.20.0/24"
